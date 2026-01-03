@@ -75,7 +75,12 @@ I am a **Cyber Security professional** focused on **defensive security, Cloud & 
 
 ### 🧪 Automation & Scripting
 - Python
-- Bash / Shell 
+- Bash / Shell
+
+### 🖥️ Others:
+- PostgreSQL
+- Jira ITSM
+- WorkspaceOne
 
 ---
 
