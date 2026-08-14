@@ -52,8 +52,6 @@ I am a **Cyber Security professional** focused on **defensive security, Cloud & 
   <img src="https://cdn.brandfetch.io/idr-d475UT/w/382/h/382/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1744869839418" width="48"/>
   <img src="https://cdn.brandfetch.io/idedmP5Q8M/w/310/h/310/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1692821437094" width="48"/>
   <img src="https://cdn.brandfetch.io/idb6LzNami/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1686217840918" width="48"/>
-  <img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idtAoLsWe7.svg?c=1bxid64Mup7aczewSAYMX&t=1759146036018" width="48"/>
-  <img src="https://cdn.brandfetch.io/idpydcX_6x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759904537453" width="48"/>
 </p>
 
 ---
