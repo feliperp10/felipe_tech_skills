@@ -42,7 +42,7 @@ I am a **Cyber Security professional** focused on **defensive security, Cloud & 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" width="48"/>
   <img src="https://skillicons.dev/icons?i=azure" width="48"/>
-  <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Entra_ID_color_icon.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Entra_ID_color_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="48"/>
   <img src="https://skillicons.dev/icons?i=windows" width="48"/>
   <img src="https://skillicons.dev/icons?i=linux" width="48"/>
   <img src="https://skillicons.dev/icons?i=python" width="48"/>
